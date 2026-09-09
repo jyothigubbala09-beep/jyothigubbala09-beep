@@ -1,134 +1,211 @@
 <div align="center">
 
-# 👋 Hi, I'm Jyothi Swarupa Gubbala
-
-### `AI/ML • Generative AI • Full-Stack Development`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F3ACE&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions+%F0%9F%A4%96;Exploring+LLMs+%26+RAG+%F0%9F%A7%A0;Full-Stack+Developer+in+Progress+%F0%9F%92%BB;Turning+ideas+into+real+projects+%F0%9F%9A%80;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=JYOTHI%20SWARUPA%20GUBBALA&fontSize=38&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=9B7EDE&center=true&vCenter=true&width=750&lines=Building+Web+Applications+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Learning+%7C+Building+%7C+Problem+Solving;Turning+Ideas+Into+Working+Projects+%F0%9F%9A%80;Future+Software+Engineer+%E2%9A%A1" alt="Typing SVG"/>
+
+<br><br>
+
 <a href="https://github.com/jyothigubbala09-beep">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/jyothi-swarupa-gubbala-046241365/">
+&nbsp;
+<a href="https://www.linkedin.com/in/jyothi-gubbala">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://jyothi-portfolio-five.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=jyothigubbala09-beep&label=PROFILE%20VIEWS&style=for-the-badge&color=7F3ACE"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<div align="center">
 
-I'm a **2nd-year B.Tech CSE (AIML) student** passionate about building practical technology that solves real-world problems.
+## `Hello, World! 👋`
 
-I enjoy working across **Artificial Intelligence, Generative AI, Full-Stack Development and modern web technologies**.
+</div>
 
-* 🎓 B.Tech — Computer Science & Engineering (AIML)
-* 🤖 Exploring **AI, Generative AI, LLMs & RAG**
-* 💻 Building projects with **Python, JavaScript, React & Next.js**
-* 🌐 Interested in **Full-Stack Development & AI-powered applications**
-* 🧠 Currently strengthening **DSA, DBMS, SQL and C++**
-* 🚀 Participating in **hackathons and hands-on projects**
-* 🎯 Goal: Build useful products that combine **AI + software engineering**
+I'm **Jyothi Swarupa Gubbala**, a **B.Tech CSE-AI student** with a strong interest in **software development, artificial intelligence, and building practical web applications**.
+
+I enjoy taking an idea from **concept → design → development → deployment** and continuously improving it.
+
+```text
+╭────────────────────────────────────────────╮
+│                                            │
+│   🎓  B.Tech CSE — AI                     │
+│   💻  Full Stack Development              │
+│   🤖  Artificial Intelligence             │
+│   🧠  Problem Solving                     │
+│   🚀  Hackathons & Projects               │
+│                                            │
+╰────────────────────────────────────────────╯
+```
 
 ---
 
-## 🧠 Tech Stack
+## ⚡ Tech Stack
 
-### 🤖 AI / Machine Learning
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-6E40C9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google"/>
-</p>
+### Programming
 
-### 💻 Programming
+<img src="https://skillicons.dev/icons?i=python,javascript" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css" />
-</p>
+<br><br>
 
-### 🌐 Development
+### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
-### 🗄️ Database & Tools
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode" />
-</p>
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br><br>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/APIs-7F3ACE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-5C6BC0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-FF6F00?style=for-the-badge"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AutoForm AI Agent
+<table>
+<tr>
 
-**AI-powered form filling assistant**
+<td width="50%" valign="top">
 
-An AI agent designed to reduce repetitive form-filling work by using a stored user profile and intelligent field detection.
+### 🍰 Sweet Shop Management
 
-**Highlights**
+A full-stack web application designed for managing products and orders.
 
-* 🔐 Profile-based information storage
-* 🤖 AI-assisted responses
-* 📝 Automatic form field detection
-* 📄 Resume upload support
-* 🔗 LinkedIn, GitHub & portfolio information
-* 🌐 Browser-extension based workflow
-* 🧠 Gemini AI integration
-* ⚡ Designed for internship/job application workflows
+**Built with**
 
-**Tech:** `Next.js` `React` `Gemini AI` `Prisma` `PostgreSQL` `Chrome Extension`
-
----
-
-### 🎮 Signal Lost
-
-**Interactive browser-based game**
-
-A story-driven interactive game focused on exploration, decision-making and an immersive digital experience.
-
-**Tech:** `HTML` `CSS` `JavaScript` `Antigravity`
-
-🔗 **Live Demo:**
-https://signal-lost-game-ashen.vercel.app/
-
----
-
-### 🍰 Sweet Shop Management System
-
-A full-stack web application with separate functionality for users and administrators.
+`React.js` `Node.js` `Express.js` `MongoDB`
 
 **Features**
 
 * 🛍️ Product management
-* 📦 Stock management
-* 🧾 Orders
-* ❤️ Wishlist
-* 🔔 Notifications
-* 👨‍💼 Admin dashboard
-* 📊 Management workflows
+* 📦 Inventory management
+* 🧾 Order tracking
+* 📊 Dashboard
+* 👤 User & Admin panels
 
-**Tech:** `JavaScript` `React` `Node.js` `Database`
+</td>
 
----
+<td width="50%" valign="top">
 
 ### 💼 CA Website
 
-A professional web application with multiple user roles and dashboard functionality.
+A modern and responsive Chartered Accountant firm website.
 
-**Tech:** `Next.js` `React` `Node.js` `Express` `Prisma`
+**Features**
+
+* 🌐 Responsive UI
+* 📋 Service exploration
+* 📩 Inquiry submission
+* 👤 User-facing features
+* 🔐 Admin / Client / Staff panels
+
+**Status:** `Currently improving`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏋️ Gym Management Demo
+
+A responsive gym membership management application.
+
+**Focus**
+
+* 👤 Role-based access concepts
+* 📱 Responsive interface
+* 🧩 Membership workflows
+* 🎨 User-friendly UI
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 Signal Lost
+
+An interactive browser-based game focused on exploration, decisions and immersive storytelling.
+
+**Built with**
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://signal-lost-game-ashen.vercel.app/">
+<img src="https://img.shields.io/badge/PLAY%20GAME-7F3ACE?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+🏅 **Top 20 — AI Knowledge Challenge 2026**
+
+<br>
+Gamnexis
+
+<br><br>
+
+🤖 **National AI/ML Hackathon Participant**
+
+<br>
+Vivriti Capital × YUVAAN  
+Indian Institute of Technology, Hyderabad
+
+<br><br>
+
+🎮 **LevelUp Game Hackathon Participant**
+
+<br>
+Gamnexis
+
+</div>
 
 ---
 
@@ -136,9 +213,9 @@ A professional web application with multiple user roles and dashboard functional
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jyothigubbala09-beep&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jyothigubbala09-beep&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothigubbala09-beep&layout=compact&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothigubbala09-beep&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
@@ -148,56 +225,91 @@ A professional web application with multiple user roles and dashboard functional
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jyothigubbala09-beep&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=jyothigubbala09-beep&theme=transparent&hide_border=true&mode=weekly"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 My Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jyothigubbala09-beep/jyothigubbala09-beep/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/jyothigubbala09-beep/jyothigubbala09-beep/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
 
-## 💡 What I'm Currently Working On
+## 🧩 Currently Learning
 
-```text
-AI / GenAI              ███████████████░░░  80%
-Full-Stack Development  ██████████████░░░░  75%
-LLMs & RAG              ████████████░░░░░░  65%
-DSA                     ██████████░░░░░░░░  55%
-Cloud & Deployment      ████████░░░░░░░░░░  45%
-```
+<div align="center">
+
+| Area |          Focus          |
+| :--: | :---------------------: |
+|  🤖  | Artificial Intelligence |
+|  💻  |  Full Stack Development |
+|  🧠  |     Data Structures     |
+|  🗄️ |        DBMS & SQL       |
+|   ⚡  |        JavaScript       |
+|  🐍  |          Python         |
+|  🌐  |  Modern Web Development |
+
+</div>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 My Developer Journey
 
-* Build more **AI-powered real-world applications**
-* Improve **Data Structures & Algorithms**
-* Deepen my understanding of **LLMs and RAG**
-* Become stronger in **Full-Stack Development**
-* Contribute to **open-source projects**
-* Participate in more **hackathons**
-* Gain practical **internship experience**
+```text
+        LEARN
+          ↓
+       EXPLORE
+          ↓
+        BUILD
+          ↓
+        DEBUG
+          ↓
+        IMPROVE
+          ↓
+        DEPLOY
+          ↓
+       REPEAT 🚀
+```
 
 ---
 
 ## 🌱 Beyond Coding
 
-I also enjoy exploring:
+<div align="center">
 
-📸 Photography
-🎨 UI/UX & Visual Design
-🎬 Editing
-🔐 Cybersecurity
-📱 Digital Marketing
-💡 Product Ideas & Innovation
+📸 **Photography**
+
+🎨 **UI/UX & Design**
+
+🎬 **Editing**
+
+🔐 **Cybersecurity**
+
+📱 **Digital Marketing**
+
+💡 **Innovation**
+
+</div>
+
+---
+
+## 💭 Developer Mindset
+
+<div align="center">
+
+### `Curiosity → Creativity → Code → Impact`
+
+<br>
+
+> **"Don't just learn technology. Build something with it."**
+
+</div>
 
 ---
 
@@ -206,30 +318,27 @@ I also enjoy exploring:
 <div align="center">
 
 <a href="mailto:jyothigubbala09@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jyothi-swarupa-gubbala-046241365/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jyothi-gubbala">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/jyothigubbala09-beep">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://jyothi-portfolio-five.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ✨ *"Build. Learn. Experiment. Repeat."*
-
-<img src="https://komarev.com/ghpvc/?username=jyothigubbala09-beep&label=Profile%20Views&color=7F3ACE&style=flat" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-
