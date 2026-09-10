@@ -1,344 +1,166 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=JYOTHI%20SWARUPA%20GUBBALA&fontSize=38&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I'm%20Jyothi%20Swarupa%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20Intern%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=9B7EDE&center=true&vCenter=true&width=750&lines=Building+Web+Applications+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Learning+%7C+Building+%7C+Problem+Solving;Turning+Ideas+Into+Working+Projects+%F0%9F%9A%80;Future+Software+Engineer+%E2%9A%A1" alt="Typing SVG"/>
-
-<br><br>
-
-<a href="https://github.com/jyothigubbala09-beep">
-<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/jyothi-gubbala">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://jyothi-portfolio-five.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Building+AI-driven+Web+Applications;React.js+%7C+Node.js+%7C+MongoDB+Developer;B.Tech+CSE-AI+Student+%40+Malla+Reddy;Turning+Ideas+into+Interactive+Products" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=jyothigubbala09-beep&label=PROFILE%20VIEWS&style=for-the-badge&color=7F3ACE"/>
+<img src="https://komarev.com/ghpvc/?username=jyothigubbala09-beep&label=Profile%20Views&color=6c63ff&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/jyothigubbala09-beep?label=Followers&style=for-the-badge&color=6c63ff" alt="followers"/>
 
 </div>
 
----
+<br/>
 
-<div align="center">
+## 🧠 About Me
 
-## `Hello, World! 👋`
-
-</div>
-
-I'm **Jyothi Swarupa Gubbala**, a **B.Tech CSE-AI student** with a strong interest in **software development, artificial intelligence, and building practical web applications**.
-
-I enjoy taking an idea from **concept → design → development → deployment** and continuously improving it.
-
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│   🎓  B.Tech CSE — AI                     │
-│   💻  Full Stack Development              │
-│   🤖  Artificial Intelligence             │
-│   🧠  Problem Solving                     │
-│   🚀  Hackathons & Projects               │
-│                                            │
-╰────────────────────────────────────────────╯
+```yaml
+name: "Jyothi Swarupa Gubbala"
+role: "Full Stack Developer Intern"
+degree: "B.Tech, CSE - Artificial Intelligence & Machine Learning"
+university: "Malla Reddy Vishwavidyapeeth"
+location: "Hyderabad, Telangana, India"
+focus:
+  - "Full Stack Web Development"
+  - "AI-driven Applications"
+  - "Problem Solving & Hackathons"
+currently:
+  - "🔭 Building AI-powered & full-stack web projects"
+  - "🌱 Sharpening skills in React.js, Node.js & MongoDB"
+  - "🏆 Participating in AI/ML Hackathons"
+  - "🎯 Looking for Full Stack / SDE Internship opportunities"
+fun_fact: "I enjoy turning repetitive tasks into smart automated tools!"
 ```
 
----
+<br/>
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Programming
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,py,html,css&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=python,javascript" />
+**Frontend & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
 
-<br><br>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-<br><br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<br><br>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/APIs-7F3ACE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-5C6BC0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Structures-00897B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Responsive%20Design-FF6F00?style=for-the-badge"/>
+**Database & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark" />
 
 </div>
 
----
+<br/>
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
+### 🤖 AI Auto Form Filler Agent
+AI-powered browser extension that detects online forms and auto-fills them using a stored profile — with smart field mapping and profile management.
 
-### 🍰 Sweet Shop Management
+`JavaScript` `Browser Extension APIs` `AI/Automation`
 
-A full-stack web application designed for managing products and orders.
+</td>
+<td width="50%">
 
-**Built with**
+### 🍬 Sweet Shop Management Website
+Full-stack web app with user & admin panels featuring inventory management, order tracking, and a live dashboard.
 
 `React.js` `Node.js` `Express.js` `MongoDB`
 
-**Features**
-
-* 🛍️ Product management
-* 📦 Inventory management
-* 🧾 Order tracking
-* 📊 Dashboard
-* 👤 User & Admin panels
-
 </td>
-
-<td width="50%" valign="top">
-
-### 💼 CA Website
-
-A modern and responsive Chartered Accountant firm website.
-
-**Features**
-
-* 🌐 Responsive UI
-* 📋 Service exploration
-* 📩 Inquiry submission
-* 👤 User-facing features
-* 🔐 Admin / Client / Staff panels
-
-**Status:** `Currently improving`
-
-</td>
-
 </tr>
-
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
+### 🏋️ Gym Management Demo Website
+Responsive gym membership management app with role-based access concepts and clean, structured workflows.
 
-### 🏋️ Gym Management Demo
-
-A responsive gym membership management application.
-
-**Focus**
-
-* 👤 Role-based access concepts
-* 📱 Responsive interface
-* 🧩 Membership workflows
-* 🎨 User-friendly UI
+`React.js` `Responsive Design` `RBAC`
 
 </td>
+<td width="50%">
 
-<td width="50%" valign="top">
+### 💼 CA Website Demo
+Modern, responsive demo site for a Chartered Accountant firm with admin, client & staff panels for service exploration and inquiries. *(Actively improving)*
 
-### 🎮 Signal Lost
-
-An interactive browser-based game focused on exploration, decisions and immersive storytelling.
-
-**Built with**
-
-`HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="https://signal-lost-game-ashen.vercel.app/">
-<img src="https://img.shields.io/badge/PLAY%20GAME-7F3ACE?style=for-the-badge"/>
-</a>
+`Full Stack` `Multi-role Panels` `UI/UX`
 
 </td>
-
 </tr>
 </table>
 
----
+</div>
 
-## 🏆 Certifications & Achievements
+<br/>
+
+## 🏅 Certifications & Achievements
+
+- 🏆 **Top 20** — AI Knowledge Challenge 2026, *Gamnexis*
+- 🎮 Certificate of Participation — **LevelUp Game Hackathon**, *Gamnexis*
+- 🧬 Certificate of Participation — **National AI ML Hackathon** by Vivriti Capital of YUVAAN, *IIT Hyderabad*
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-🏅 **Top 20 — AI Knowledge Challenge 2026**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jyothigubbala09-beep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothigubbala09-beep&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br>
-Gamnexis
+<br/>
 
-<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jyothigubbala09-beep&theme=tokyonight&hide_border=true" />
 
-🤖 **National AI/ML Hackathon Participant**
+<br/>
 
-<br>
-Vivriti Capital × YUVAAN  
-Indian Institute of Technology, Hyderabad
-
-<br><br>
-
-🎮 **LevelUp Game Hackathon Participant**
-
-<br>
-Gamnexis
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyothigubbala09-beep&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Activity
+## 🐍 Contribution Snake
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/jyothigubbala09-beep/jyothigubbala09-beep/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jyothigubbala09-beep&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothigubbala09-beep&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="180"/>
-
+<sub>⚡ To activate this, add the <code>snk</code> GitHub Action to your profile repo (see Setup Notes below)</sub>
 </div>
 
----
+<br/>
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jyothigubbala09-beep&theme=transparent&hide_border=true&mode=weekly"/>
-
-</div>
-
----
-
-## 🐍 My Contribution Journey
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jyothigubbala09-beep/jyothigubbala09-beep/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-## 🧩 Currently Learning
-
-<div align="center">
-
-| Area |          Focus          |
-| :--: | :---------------------: |
-|  🤖  | Artificial Intelligence |
-|  💻  |  Full Stack Development |
-|  🧠  |     Data Structures     |
-|  🗄️ |        DBMS & SQL       |
-|   ⚡  |        JavaScript       |
-|  🐍  |          Python         |
-|  🌐  |  Modern Web Development |
-
-</div>
-
----
-
-## 🎯 My Developer Journey
-
-```text
-        LEARN
-          ↓
-       EXPLORE
-          ↓
-        BUILD
-          ↓
-        DEBUG
-          ↓
-        IMPROVE
-          ↓
-        DEPLOY
-          ↓
-       REPEAT 🚀
-```
-
----
-
-## 🌱 Beyond Coding
-
-<div align="center">
-
-📸 **Photography**
-
-🎨 **UI/UX & Design**
-
-🎬 **Editing**
-
-🔐 **Cybersecurity**
-
-📱 **Digital Marketing**
-
-💡 **Innovation**
-
-</div>
-
----
-
-## 💭 Developer Mindset
-
-<div align="center">
-
-### `Curiosity → Creativity → Code → Impact`
-
-<br>
-
-> **"Don't just learn technology. Build something with it."**
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
+<a href="https://linkedin.com/in/jyothi-gubbala" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="mailto:jyothigubbala09@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<a href="https://www.linkedin.com/in/jyothi-gubbala">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/jyothigubbala09-beep">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://jyothi-portfolio-five.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/jyothigubbala09-beep" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<br>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=fadeIn" width="100%"/>
-
+<i>⭐️ Thanks for stopping by — let's build something great together!</i>
 </div>
